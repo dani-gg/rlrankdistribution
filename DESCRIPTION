@@ -1,0 +1,12 @@
+Package: rlrankdistribution
+Title: Data Package for Rocket League Competitive Seasons Rank Distributions
+Version: 1.0.0
+Authors@R: 
+    person(given = "Dani",
+           role = c("aut", "cre"),
+           email = "me@dani.gg")
+Description: Data Package for Rocket League Competitive Seasons Rank Distributions.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
